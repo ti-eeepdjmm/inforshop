@@ -1,4 +1,4 @@
-# Inforshop 💻🛒👩‍💻👨‍💻
+# Inforshop 💻📱🛒👩‍💻👨‍💻
 Projeto de `estudo de caso` sobre a criação de uma página de *E-commerce de Tecnologia*. Projeto desenvolvido de forma gradual na Disciplina de **Programação Web I**.
 
 ## Tecnologias usadas no projeto
