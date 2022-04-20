@@ -1,3 +1,3 @@
-import { bemVindo } from "./assets/js/app.js";
+import { bemVindo } from "./js/app.js";
 
 bemVindo("rick");
