@@ -10,6 +10,7 @@
     border: none;
     color: #FFF;
     font-size: 1.5rem;
+    cursor: pointer;
 }
 
 .favorito__botao, .carrinho__botao{
