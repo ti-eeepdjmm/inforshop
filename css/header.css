@@ -1,0 +1,23 @@
+.header{
+    background-color: red;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 0px 20px;
+}
+.menu__botao, .pesquisa__botao{
+    background: none;
+    border: none;
+    color: #FFF;
+    font-size: 1.5rem;
+}
+
+.favorito__botao, .carrinho__botao{
+    text-decoration: none;
+    color: #FFFFFF;
+    font-size:1.5rem;
+}
+
+.menu__botao{
+    margin-right: 0px;
+}
