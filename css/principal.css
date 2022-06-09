@@ -30,5 +30,14 @@ a:visited{
 }
 .banner__descricao > p{
     margin: 0px;
-    padding: 5px;
+    padding: 1px;
+    font-size: 0.8rem;
+}
+
+.banner__imagem > img{
+    /* border:5px solid; */
+    width:100%;
+}
+.banner__imagem{
+    height: 111px;
 }

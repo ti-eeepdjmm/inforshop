@@ -1,0 +1,38 @@
+.produtos{
+  padding: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: 15px;
+}
+
+.produtos > h3{
+  flex-basis: 100%;
+}
+
+.produto__card{
+    /* border: 1px solid; */
+    width: 154px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-sizing: border-box;
+    box-shadow: 1px 2px 5px 2px #c9c9c9;
+}
+
+.produto__card p{
+  margin:5px 0px;
+  text-align: center;
+}
+
+.produto__imagem{
+  /* border: 1px solid rgb(78, 76, 76); */
+  height: 130px;
+  display: block;
+}
+.produto__favoritar{
+  background: none;
+  border: none;
+  align-self: flex-end;
+  font-size: 1.2rem;
+}
